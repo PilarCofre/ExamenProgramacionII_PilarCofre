@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExamenProgramacionII_PilarCofre</string>
+    <string name="titulo_listado">Expense List</string>
+    <string name="Registro_Medidor">Meter Registrationt</string>
+    <string name="btn_RegistrarMedicion" >Record Measurement</string>
+
+</resources>
